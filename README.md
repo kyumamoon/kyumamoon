@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kyumamoon
 - 👀 I’m interested in ... coding/programming and tech things.
-- 🌱 I’m currently learning ... Python and Go
+- 🌱 I’m currently learning ... Game Development, Go, Python
 - 💞️ I love using Golang.
 - 📫 How to reach me ...
 
