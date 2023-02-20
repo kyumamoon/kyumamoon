@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kyumamoon
-- 👀 I’m interested in ... programming/tech/art/Film Making/3D and 2D Animating/Sound Designing
+- 👀 I’m interested in ... programming/tech/art/Film Making/3D and 2D Animating/Sound Designing/3D Modeling/Story Writing
 - 🌱 I’m currently learning ... Game Development, Go, Python, and Dart.
 - 💞️ I love using Golang.
 - 📫 How to reach me, kyumamoon@moonkoi.com
