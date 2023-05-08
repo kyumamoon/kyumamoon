@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @kyumamoon
-- 👀 I’m interested in ... programming/tech/art/Film Making/3D and 2D Animating/Sound Designing/3D Modeling/Story Writing
-- 🌱 I’m currently learning ... Game Development, Go, Python, and Dart.
+- 👀 I’m interested in ... creative arts and puzzles.
+- 🌱 I’m currently learning ... Computer Science, Cybersecurity, Game Development, Filmmaking
 - 💞️ I love using Golang.
-- 📫 How to reach me, kyumamoon@moonkoi.com, www.moonkoi.net
+- 📫 How to reach me, kyumamoon@moonkoi.com
+- 🍟 Languages: Go, Python, Dart, Lua
 
 <!---
 kyumamoon/kyumamoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
