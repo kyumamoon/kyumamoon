@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kyumamoon
-- 👀 I’m interested in cybersecurity, computer science, computer engineering and science.
+- 👀 I’m interested in cybersecurity, computer science, computer engineering and art.
 - 🌱 I’m currently learning ... Computer Science, Cybersecurity, Game Development, Filmmaking.
 - 💞️ I love using the Golang Language. Hoping to explore more features of Golang through side projects.
 - 📫 How to reach me, kyumamoon@moonkoi.com.
